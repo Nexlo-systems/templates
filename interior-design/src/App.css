@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  /* Colors from your Aura Interiors Design System */
+  --color-bg-main: #131313;
+  --color-surface-card: #1b1c1c;
+  --color-surface-bright: #393939;
+  --color-brand-cream: #e4e2e1;
+  --color-brand-taupe: #8e9192;
+
+  /* Typography */
+  --font-serif: "Libre Caslon Text", serif;
+  --font-sans: "Manrope", sans-serif;
+}
